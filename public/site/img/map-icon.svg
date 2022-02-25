@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="17px" viewBox="0 0 15 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>map-pin</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#039BF9" offset="0%"></stop>
+            <stop stop-color="#00C8A0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#039BF9" offset="0%"></stop>
+            <stop stop-color="#00C8A0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Shhada" transform="translate(-1172.000000, -3143.000000)" stroke-width="1.5">
+            <g id="Our-Team" transform="translate(223.000000, 2638.000000)">
+                <g id="name" transform="translate(790.000000, 438.000000)">
+                    <g id="Group-6" transform="translate(7.000000, 67.000000)">
+                        <g id="map-pin" transform="translate(153.000000, 1.000000)">
+                            <path d="M12.2727273,6.13636364 C12.2727273,10.9090909 6.13636364,15.0000001 6.13636364,15.0000001 C6.13636364,15.0000001 0,10.9090909 0,6.13636364 C0,2.74734362 2.74734362,9.14389437e-08 6.13636364,9.14389437e-08 C9.52538366,9.14389437e-08 12.2727273,2.74734362 12.2727273,6.13636364 L12.2727273,6.13636364 Z" id="Path" stroke="url(#linearGradient-1)"></path>
+                            <circle id="Oval" stroke="url(#linearGradient-2)" cx="6.13636364" cy="6.13636364" r="2.04545455"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

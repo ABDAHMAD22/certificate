@@ -1,0 +1,66 @@
+@page {
+    margin: 0;
+}
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    direction: rtl;
+    font-family: 'dejavusanscondensed';
+    font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p,
+ul,
+ul li {
+    margin: 0;
+}
+
+ul,
+ul li {
+    padding: 0;
+}
+
+ol li,
+ul li {
+    padding: 8px 15px 0 0;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.dir-ltr {
+    direction: ltr;
+}
+
+.dir-rtl {
+    direction: rtl;
+}
+
+.clear {
+    clear: both;
+}
+.certificate-img {
+    width: 100%;
+}

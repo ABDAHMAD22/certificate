@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="15px" viewBox="0 0 19 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mail</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#039BF9" offset="0%"></stop>
+            <stop stop-color="#00C8A0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#039BF9" offset="0%"></stop>
+            <stop stop-color="#00C8A0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="10" transform="translate(-674.000000, -497.000000)">
+            <g id="social-media" transform="translate(632.000000, 491.000000)">
+                <g id="Group-12" transform="translate(37.800000, 0.000000)">
+                    <g id="mail" transform="translate(6.480000, 7.560000)">
+                        <path d="M1.485,0 L13.365,0 C14.18175,0 14.85,0.66825 14.85,1.485 L14.85,10.395 C14.85,11.21175 14.18175,11.88 13.365,11.88 L1.485,11.88 C0.66825,11.88 0,11.21175 0,10.395 L0,1.485 C0,0.66825 0.66825,0 1.485,0 Z" id="Path" stroke="url(#linearGradient-1)"></path>
+                        <polyline id="Path" stroke="url(#linearGradient-2)" points="14.85 1.485 7.425 6.6825 0 1.485"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
